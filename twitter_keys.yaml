@@ -1,0 +1,5 @@
+search_tweets_fullarchive_dev:
+  endpoint: https://api.twitter.com/2/tweets/search/all
+  consumer_key: paste_your_consumer_key_here
+  consumer_secret: paste_your_consumer_secret_here
+  bearer_token: paste_your_bearer_token_here
